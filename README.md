@@ -8,7 +8,7 @@ This project aims at learning
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files provided for the project.
 
 ## Helper Files :raised_hands:
 
