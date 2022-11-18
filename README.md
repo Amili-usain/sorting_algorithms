@@ -25,7 +25,7 @@ all types and functions written for the project.
 * [deck.h](./deck.h): Header file containing definitions and prototypes for all types
 and functions written for the task `1000-sort_deck.c`.
 
-## Tasks :Page_with_curl:
+## Tasks :page_with_curl:
 
 * **0. Bubble sort**
   * [0-bubble_sort.c](./0-bubble_sort.c): C function that sorts an array of integers
